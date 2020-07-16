@@ -1,0 +1,13 @@
+D:\hackerRank\SherlockAndTheBeast\SherlockAndTheBeast\bin\Debug\netcoreapp3.1\SherlockAndTheBeast.exe
+D:\hackerRank\SherlockAndTheBeast\SherlockAndTheBeast\bin\Debug\netcoreapp3.1\SherlockAndTheBeast.deps.json
+D:\hackerRank\SherlockAndTheBeast\SherlockAndTheBeast\bin\Debug\netcoreapp3.1\SherlockAndTheBeast.runtimeconfig.json
+D:\hackerRank\SherlockAndTheBeast\SherlockAndTheBeast\bin\Debug\netcoreapp3.1\SherlockAndTheBeast.runtimeconfig.dev.json
+D:\hackerRank\SherlockAndTheBeast\SherlockAndTheBeast\bin\Debug\netcoreapp3.1\SherlockAndTheBeast.dll
+D:\hackerRank\SherlockAndTheBeast\SherlockAndTheBeast\bin\Debug\netcoreapp3.1\SherlockAndTheBeast.pdb
+D:\hackerRank\SherlockAndTheBeast\SherlockAndTheBeast\obj\Debug\netcoreapp3.1\SherlockAndTheBeast.csprojAssemblyReference.cache
+D:\hackerRank\SherlockAndTheBeast\SherlockAndTheBeast\obj\Debug\netcoreapp3.1\SherlockAndTheBeast.AssemblyInfoInputs.cache
+D:\hackerRank\SherlockAndTheBeast\SherlockAndTheBeast\obj\Debug\netcoreapp3.1\SherlockAndTheBeast.AssemblyInfo.cs
+D:\hackerRank\SherlockAndTheBeast\SherlockAndTheBeast\obj\Debug\netcoreapp3.1\SherlockAndTheBeast.csproj.CoreCompileInputs.cache
+D:\hackerRank\SherlockAndTheBeast\SherlockAndTheBeast\obj\Debug\netcoreapp3.1\SherlockAndTheBeast.dll
+D:\hackerRank\SherlockAndTheBeast\SherlockAndTheBeast\obj\Debug\netcoreapp3.1\SherlockAndTheBeast.pdb
+D:\hackerRank\SherlockAndTheBeast\SherlockAndTheBeast\obj\Debug\netcoreapp3.1\SherlockAndTheBeast.genruntimeconfig.cache

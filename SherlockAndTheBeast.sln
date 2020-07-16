@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30309.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SherlockAndTheBeast", "SherlockAndTheBeast\SherlockAndTheBeast.csproj", "{F6B99368-CF07-483E-BC16-5521DDD1CB92}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F6B99368-CF07-483E-BC16-5521DDD1CB92}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F6B99368-CF07-483E-BC16-5521DDD1CB92}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F6B99368-CF07-483E-BC16-5521DDD1CB92}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F6B99368-CF07-483E-BC16-5521DDD1CB92}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {81571C0E-EF22-4A99-81A9-C0FB3FD9CC11}
+	EndGlobalSection
+EndGlobal
